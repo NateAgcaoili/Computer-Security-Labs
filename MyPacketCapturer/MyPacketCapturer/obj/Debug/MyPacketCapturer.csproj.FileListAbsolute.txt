@@ -1,0 +1,15 @@
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\MyPacketCapturer.exe
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\MyPacketCapturer.pdb
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\PacketDotNet.dll
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.dll
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\PacketDotNet.xml
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.xml
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.dll.config
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csprojAssemblyReference.cache
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.Form1.resources
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.Properties.Resources.resources
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csproj.GenerateResource.cache
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csproj.CoreCompileInputs.cache
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csproj.CopyComplete
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.exe
+D:\Documents-HDD\GitHub\Computer-Security-Labs\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.pdb
