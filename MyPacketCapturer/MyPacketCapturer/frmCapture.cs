@@ -11,14 +11,15 @@ using SharpPcap;
 
 namespace MyPacketCapturer
 {
-    public partial class Form1 : Form
+    public partial class frmCapture : Form
     {
         CaptureDeviceList devices; //List of devices for this computer
         public static ICaptureDevice device; //Device to be used
         public static string stringPackets = ""; //Data that is captured
         static int numPackets = 0;
+        frmSend fSend; //Send form
 
-        public Form1()
+        public frmCapture()
         {
             InitializeComponent();
 
@@ -200,6 +201,15 @@ namespace MyPacketCapturer
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void sendWindowToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (frmSend.instantiations < 1) //only one may open at a time
+            {
+                fSend = new frmSend();
+                fSend.Show();
+            }
         }
     }
 }
